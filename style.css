@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(60, 58, 58);
+    color: rgb(12, 206, 173);
+    text-align: center;
+    margin: 2%;
+}
+table, tr, td{
+    margin: auto;
+}
+
+img{
+    width: 45%;
+}
